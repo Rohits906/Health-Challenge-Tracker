@@ -1,4 +1,4 @@
-# Workout Tracker
+# Health-Challenge-Tracker
 
 A React-based web application for tracking workout progress. This app allows users to log workouts, view workout summaries by user, and visualize workout data using charts.
 
